@@ -6,3 +6,6 @@ Hi Everyone! My name is Amanda Morgan and I am currently enrolled in Georgia Ins
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaC0022)](https://github.com/AmandaC0022/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaC0022&layout=compact)](https://github.com/AmandaC0022/github-readme-stats)
+
+
